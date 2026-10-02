@@ -1,8 +1,8 @@
 {
   "product": "GMR-R558",
-  "version": "1.2.3",
-  "size": 1432096,
-  "sha256": "f99c654056ed4fa0b8cacaf5922b54d5b7f70a12cbbf8cdf17aadd4d77940ca4",
-  "sig": "MEUCIQDE6X5WUnvJrtQ/dssG+PQqVG2mOADXh0NY8kFHWGnQYQIgAnubKxh3gnrRQ9kmNjP67zZ65UxepwyBUPcTpf0hmUQ=",
-  "notes": "TEST rollback (sengaja crash)"
+  "version": "1.2.4",
+  "size": 1436272,
+  "sha256": "de026f837c22c750e49c465385f968988d887fdddac1c1b5f0cb3b7bf3d7d579",
+  "sig": "MEQCIGu8UGLgmCmPSBd4jlFeh7KJ/roK7TOrAyNByyhs7NS0AiAHsSsHQWomYsbirNm+otUujchdOf7rUZpzfJKAypPbiQ==",
+  "notes": "Rilis awal: update firmware jarak jauh bertanda tangan, rollback otomatis."
 }
