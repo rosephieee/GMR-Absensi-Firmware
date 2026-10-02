@@ -1,8 +1,8 @@
 {
   "product": "GMR-R558",
-  "version": "9.9.9",
-  "size": 1435648,
-  "sha256": "9d29b7ec6e74d4caacebeaf19556f6e5936c43656b42eb3ddc603ef5f21c5cdb",
-  "sig": "MEUCIQDiUEGjgPEwr7wwas66rbo91X1pPYcfj3+HARqj5KlHnwIga0fBibmjzG+UHpPzF5Vy1LEGtNi7uSuzrvJyLSKAsKM=",
-  "notes": "Rilis awal dengan update firmware jarak jauh."
+  "version": "1.2.1",
+  "size": 1436016,
+  "sha256": "47623bb86a44c8a3b1965fbc22b32457b880376ce93e18ca9a7f98bd0e34f73a",
+  "sig": "MEYCIQDoclkVXbZxDGok2HjXn2GfHLhY9UaQz91r6LlZfNId6AIhAIo9xbm1rhYsM7MKe/6WpKk18z+MDPEg+cen1KyaL/wL",
+  "notes": "TEST hash mismatch"
 }
