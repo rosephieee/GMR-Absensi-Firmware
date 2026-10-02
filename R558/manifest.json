@@ -1,8 +1,8 @@
 {
   "product": "GMR-R558",
-  "version": "1.2.2",
-  "size": 1436272,
-  "sha256": "fb1c8612406f962a9fbbeff5af27e4142e68953519d146d1ca47b5a1205e8b2b",
-  "sig": "MEUCIAlHd72Od/t2xfJSLhBZwjo4agwkcNEjnMzzFv23mIGIAiEA0iIg5x1e58XFzRr0LgIqEkzfakPkDe3asWIcTIpE63U=",
-  "notes": "TEST rollback diag"
+  "version": "1.2.3",
+  "size": 1432096,
+  "sha256": "f99c654056ed4fa0b8cacaf5922b54d5b7f70a12cbbf8cdf17aadd4d77940ca4",
+  "sig": "MEUCIQDE6X5WUnvJrtQ/dssG+PQqVG2mOADXh0NY8kFHWGnQYQIgAnubKxh3gnrRQ9kmNjP67zZ65UxepwyBUPcTpf0hmUQ=",
+  "notes": "TEST rollback (sengaja crash)"
 }
